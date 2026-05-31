@@ -1,6 +1,3 @@
-{/* source: regulations/final/Amendment_to_Number_Portability_Regulations.pdf */}
-{/* sha256: 4baa42dcc06e078d96b87f7f92b5a9dbaa2bbc9c6d247138437639ba38e67027 */}
-{/* converted: 2026-05-31 06:09:39 */}
 
 No. 150
 
@@ -14,7 +11,6 @@ H. M. GAOMAB II CHAIRPERSON OF THE BOARD
 
 COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE OF THE
 

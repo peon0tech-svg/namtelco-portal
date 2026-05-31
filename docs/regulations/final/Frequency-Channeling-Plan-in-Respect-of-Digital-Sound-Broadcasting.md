@@ -1,6 +1,3 @@
-{/* source: regulations/final/Frequency-Channeling-Plan-in-Respect-of-Digital-Sound-Broadcasting.pdf */}
-{/* sha256: 633334d8dc2e2d03259ff05ee0ffacdfac865ede81b8cdd20cd69581e330e81e */}
-{/* converted: 2026-05-31 06:13:48 */}
 
 N$11.40
 
@@ -30,7 +27,6 @@ H. M. GAOMAB II CHAIRPERSON OF THE BOARD
 
 COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE OF THE
 

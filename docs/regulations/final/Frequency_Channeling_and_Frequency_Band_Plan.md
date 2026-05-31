@@ -1,8 +1,4 @@
-{/* source: regulations/final/Frequency_Channeling_and_Frequency_Band_Plan.pdf */}
-{/* sha256: 8c128b4c6fd614008edae5333cabf8f0046fbc9e64ba6d4edb0c62af5bcdfad8 */}
-{/* converted: 2026-05-31 06:24:03 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 
@@ -52,7 +48,6 @@ Key features of IMT-2000 and IMT-Advanced are contained in Recommendation ITU-R 
 
 Figure 1
 
-{/* image */}
 
 ## Proposed frequency arrangement for the 790-862 MHz spectrum band
 
@@ -62,11 +57,9 @@ Figure 1
 
 Figure 2
 
-{/* image */}
 
 Figure 3
 
-{/* image */}
 
 ## Summary of the paired frequency arrangements in the band 694-862 MHz
 

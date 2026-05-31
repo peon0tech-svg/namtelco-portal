@@ -1,8 +1,4 @@
-{/* source: acts/Communications_Act_8_of_2009.pdf */}
-{/* sha256: 6e017541a24fe12fd9261c2edc1e8cd0873958bb06e524928af7a74a43edd0a6 */}
-{/* converted: 2026-05-30 21:42:03 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 

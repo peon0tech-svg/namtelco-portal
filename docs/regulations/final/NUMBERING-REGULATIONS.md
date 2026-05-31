@@ -1,12 +1,8 @@
-{/* source: regulations/final/NUMBERING-REGULATIONS.pdf */}
-{/* sha256: 1195f8efc2004ce5bc4701f1c88a254416586f3f47b69d59c7468ea566d7dc70 */}
-{/* converted: 2026-05-31 06:31:54 */}
 
 Figure1
 
 Arrangement A7
 
-{/* image */}
 
 4. TheallocationforPPDRservicesinaccordancewithResolution646(WRC-19)andthe SADCFrameworkforHarmonisationofRadioFrequencySpectrumforPublicProtection andDisasterRelief(PPDR)-
 - a. 698-703MHzforUplink and753-758MHzfordownlink(2x5MHz);and
@@ -225,7 +221,6 @@ Namibia's proposed numbering fees are on par with those countries in the SADC re
 
 Figure 1: Numbering Fees in SADC (NS/number)
 
-{/* image */}
 
 ## 6. ConclusionandRecommendations
 

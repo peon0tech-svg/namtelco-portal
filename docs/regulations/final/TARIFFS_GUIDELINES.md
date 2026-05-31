@@ -1,8 +1,4 @@
-{/* source: regulations/final/TARIFFS_GUIDELINES.pdf */}
-{/* sha256: cf288a61c23c7b67c58643d3ae6522be129ef2c87f71adb90ca7b417bef47427 */}
-{/* converted: 2026-05-31 07:43:37 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
@@ -112,7 +108,6 @@ The approval process is depicted in Figure 1 below.
 
 Figure 1: Tariff Approval Process
 
-{/* image */}
 
 The tariff submission shall be in hard copy and soft copy 1 . The hard copy submission should be made in the form of a letter informing the Authority that the notifying licensee wishes to submit a tariff or an amendment for approval. The letter should further depict the tariff information as well as the date of implementation of the tariff. Lastly, the letter should give indication on whether the tariff submission is a promotion or a permanent filing.
 

@@ -1,6 +1,3 @@
-{/* source: regulations/final/GAZETTE_26_NOVEMBER_B.pdf */}
-{/* sha256: 8abf2f2e612ccee21dfd5a7cee7051457b7a9c2ac01c5ea74b52b366d542c5ac */}
-{/* converted: 2026-05-31 06:24:15 */}
 
 ## 1. FOREWORD
 
@@ -8,7 +5,6 @@ As per section 99 of the Communications Act, 2009 the Authority is vested with t
 
 To this end the Authority has developed a spectrum assignment strategy setting out the Authority's objectives for spectrum management and providing clarity in respect of the Authority's approach to the control, planning, administration and licensing of radio spectrum.
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 

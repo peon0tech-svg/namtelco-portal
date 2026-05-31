@@ -1,6 +1,3 @@
-{/* source: regulations/final/AMENDMENT-OF-SPECTRUM-LICENSIN.pdf */}
-{/* sha256: 873e44791ba0a687d4e62389c9499f2c0eaad037b42215d606114747ae7f62d6 */}
-{/* converted: 2026-05-31 06:08:25 */}
 
 No.446
 
@@ -113,7 +110,6 @@ The CommunicationsRegulatoryAuthority of Namibia,under section129readwith sectio
 | Typical Applications                     | Asstive listening devices Non-specific SRDs Radio Microphones |                                             | Non-specific SRDs                                  |                                 |                                                      | Active medical implants and associated peripherals   | PMR446                                | Radio Microphones Non-specific SRDs | WirelessAudio applications | Non-specific SRDs | WirelessAudio applications |
 | Frequency band                           | 169.5875-169.8125 173.965-216 MHz 174-216 MHz MHz             | 433.05-                                     | 434.79MHz                                          |                                 | 401-402MHz                                           | 402-405MHz                                           | 446 - 446.2 MHz 405-406MHz            | 470-786MHz 862-863MHz               | 863-865 MHz                |                   | 864.8-865 MHz              |
 
-{/* image */}
 
 |                                           | Note4,Note 2,Note 7 and FHSSmodulation Note (TZA) (Note 13) Note9   |
 |-------------------------------------------|---------------------------------------------------------------------|
@@ -133,7 +129,6 @@ The CommunicationsRegulatoryAuthority of Namibia,under section129readwith sectio
 | Typical Applications             | Non-specific SRDs                                                                     |                                                                | Non-specific SRDs                         |                | Non-specific SRDs               | Alarms Alarms                       | Alarms                  | Non-specific SRDs                                                                           |                         |
 | Frequency band                   | 863-870MHz                                                                            |                                                                | 868-868.6 MHz                             | 868.6-868.7MHz | 868.7-869.2MHz 869.25-869.3 MHz | 869.2-869.25 MHz                    | 869.3-869.4MHz          | 869.400-869.650 MHz                                                                         | 869.65-869.7 MHz        |
 
-{/* image */}
 
 |                                                       | No channel spacing,owever thewhole Note (TZA) (Note 5)   |                                                                                                                                                                                    |                                                                                                                                                      | (Note 12)     | (  )  I s  7-0  Power levels above 500mWare restrictedto d s  e u  si q s s  (30 ms on /170 ms of). (Note 12)   |
 |-------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------|

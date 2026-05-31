@@ -1,8 +1,4 @@
-{/* source: regulations/final/Broadcasting_Code_Final.pdf */}
-{/* sha256: fb36512637a81ed420235244de269f396d2644b02a372a815bacde02191a894a */}
-{/* converted: 2026-05-31 06:10:10 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 
@@ -597,7 +593,6 @@ the broadcasting licensee concerned must afford that political party, candidate 
 - (5) Where a local content programme or music is broadcast more than once during the performance period, measured over a week, any broadcast after the first broadcast thereof during that week does not count towards the local content requirement applicable to that broadcasting licensee.
 - (6) Based on the above, local content is calculated as follows for each performance period:
 
-{/* formula-not-decoded */}
 
 A = total number of hours or time the broadcasting licensee broadcast applicable local content during the performance period
 

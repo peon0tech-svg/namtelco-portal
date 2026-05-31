@@ -1,6 +1,3 @@
-{/* source: regulations/final/QUALITY_OF_SERVICE_REGULATIONS.pdf */}
-{/* sha256: 1a8ec5d1ffd209bf2171748e91c93eb29992521e6050c767a801e9610ef3d747 */}
-{/* converted: 2026-05-31 06:57:45 */}
 
 | AfriKA-Professional IP/30   |   99 |
 |-----------------------------|------|

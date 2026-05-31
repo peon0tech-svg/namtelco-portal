@@ -1,8 +1,4 @@
-{/* source: acts/Communications-Amendment-Act.pdf */}
-{/* sha256: 2b22286b84936cd9bfc6da9a15b6138fb1f83217ad7367c9f8529f71abbcead6 */}
-{/* converted: 2026-05-30 21:40:19 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 

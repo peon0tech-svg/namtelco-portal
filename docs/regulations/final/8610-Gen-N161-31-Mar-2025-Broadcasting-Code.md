@@ -1,8 +1,4 @@
-{/* source: regulations/final/8610-Gen-N161-31-Mar-2025-Broadcasting-Code.pdf */}
-{/* sha256: 040e5e42efdcb99ffcb17c87a0320b0e7504921993495110cc9d5d160755615c */}
-{/* converted: 2026-05-31 05:52:05 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 

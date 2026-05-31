@@ -1,10 +1,6 @@
-{/* source: regulations/final/5148-74_Amendment_13_March_2013.pdf */}
-{/* sha256: a16472fa1382ab55945be5193c7e7a0625adacc001493f89e5978aa7e843d2e1 */}
-{/* converted: 2026-05-31 05:45:39 */}
 
 N$8.00
 
-{/* image */}
 
 ## GOVERNMENTGAZETTE
 
@@ -109,7 +105,6 @@ Withthenewpricingstructure,asingletariffisdeterminedforatotalnetworksolutionwith
 
 Seetablebelowforillustration:
 
-{/* image */}
 
 The pricing model considered the network element chain involved in producing the services and products have been definedin a standard way to ensure consistency and transparency to customers and other stakeholders.
 
@@ -625,7 +620,6 @@ Regarding theSubmission of InterconnectionAgreements and Tariffs",in Government 
 
 2013
 
-{/* image */}
 
 | Hit Radio Namibia CC   | Namibia   | 100%   |   90.0 |          | OtjozondjupaOkakarara/ Otjiwarango   | Klein Waterberg Tower(NBC)   | Commercial Service Broadcasting   | Yes   |
 |------------------------|-----------|--------|--------|----------|--------------------------------------|------------------------------|-----------------------------------|-------|
@@ -701,7 +695,6 @@ No.75
 
 The Communications Regulatory Authority of Namibia,in terms of regulation 8of the"Regulations Regarding theSubmissionofInterconnectionAgreementsandTariffs",inGovernmentGazetteNo. 4714,NoticeNo.126,dated18May2011,andsection53of theCommunicationsAct,No8of2009, herewithgivesnoticeof thefollowingtariffsforTelecomNamibia Limited,whichwillbeeffective fromdateofpublicationofthisnoticeintheGazette:
 
-{/* image */}
 
 ## Email to fax tariffs (VAT exclusive)
 

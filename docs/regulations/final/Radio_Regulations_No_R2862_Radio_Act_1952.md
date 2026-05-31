@@ -1,6 +1,3 @@
-{/* source: regulations/final/Radio_Regulations_No_R2862_Radio_Act_1952.pdf */}
-{/* sha256: cd7efe8a6efed320f0e45d4f7bdaca7f4cc237ab3f55a9466f1bc20023c38ba3 */}
-{/* converted: 2026-05-31 07:42:51 */}
 
 C
 
@@ -1450,7 +1447,6 @@ Channel
 
 27,275
 
-{/* image */}
 
 |   19 20 | Frequency (MHz) 27,185 27,205                    |
 |---------|--------------------------------------------------|
@@ -1488,7 +1484,6 @@ die frekwensies werk,moet nadelige steurings onvoorwaardelik aanyaar en die Posm
 - (3) Al tie kanale is vir die gesamentlike gebruik van alle gelisensieerdes en geen kanaal sal vir die private of uitsluitlike gebruik van enige stasie of groep stasies gereserveer word ni en ook nie vir enkelsybandof AM-ontvangs of-uitsenc ing nie.
 - (4)F:ekwensies binne die frekwensieband 26,96 tot 27.28 MHz is hcofsaaklik vir nywerheids-,wetenskaplike en geneeskundige doeleindes
 
-{/* image */}
 
 service who work within the limits of this frequency band shall unconditionally accept harmful interierence from these sources and the Postmaster Ceneral wili not investigate complains about such interference.
 
@@ -2014,7 +2009,6 @@ E
 
 1
 
-{/* image */}
 
 | Measuring jokrepunog property              |                                                                                                                                                                                                |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2028,7 +2022,6 @@ E
 | Frequency range                            | 4 ±4 HOCCRAE 1605-30000kHz.. 30-1000MHZ..... Z000-009 150-30000kz... 400-1000MHZ... 30-300MHz... X000-00 150-500kH.. - 150-200kHz.... Z000500 30-300MHZ..... 30-300MHz. 30-300MHz.. 30-300MHz. |
 | smedde                                     | E 2                                                                                                                                                                                            |
 
-{/* image */}
 
 Key to Abbreviations:
 
@@ -2083,9 +2076,7 @@ Apparaat wat nie deur die klnss hieronder gedek word nie.
 
 TABEL1
 
-{/* image */}
 
-{/* image */}
 
 | ciendomsgrens af Meetafstand d-meler van   |                                                                                                                                            |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2419,6 +2410,4 @@ R
 
 20,00
 
-{/* image */}
 
-{/* image */}

@@ -1,6 +1,3 @@
-{/* source: regulations/final/NUMBER_PORTABILITY.pdf */}
-{/* sha256: f5fd9f21d1a05d07f79931844bf4c61e10717350690b434e07829b8053670547 */}
-{/* converted: 2026-05-31 06:32:01 */}
 
 ## GENERAL NOTICES
 
@@ -18,7 +15,6 @@ AMENDMENT OF THE REGULATIONS PRESCRIBING THE NATIONAL NUMBERING PLAN FOR USE IN 
 
 The Communications Regulatory Authority of Namibia, in terms of sections 81(1), (3) and (4) and 129 of the Communications Act, 2009 (Act No. 8 of 2009), amends the Regulations Prescribing the National Numbering Plan for Use in the Provision of Telecommunications Services in the Republic of  Namibia,  Numbering  Licence  Fees  and  Procedures  for  Number  Licences  published  in Government Gazette No. 5983, General Notice No. 97, dated 1 April 2016 effective from date of publication in the Gazette .
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE OF THE
 

@@ -1,10 +1,6 @@
-{/* source: regulations/final/SPECTRUM_FEES_REGULATIONS.pdf */}
-{/* sha256: 818bbdf4e64e6ff7bf52b5cba59c978a905a4a1c332296920fb6dafeebd81b4a */}
-{/* converted: 2026-05-31 07:43:20 */}
 
 N$18.00
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 

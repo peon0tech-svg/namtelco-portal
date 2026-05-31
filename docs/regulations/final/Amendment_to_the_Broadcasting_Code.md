@@ -1,8 +1,4 @@
-{/* source: regulations/final/Amendment_to_the_Broadcasting_Code.pdf */}
-{/* sha256: 26b9b913dfd0ff8bd8b3f721dfc7e07fd0b4506d3b6bfbee8fe37996532e129a */}
-{/* converted: 2026-05-31 06:09:41 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 

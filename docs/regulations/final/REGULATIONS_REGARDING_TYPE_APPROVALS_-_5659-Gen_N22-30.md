@@ -1,10 +1,6 @@
-{/* source: REGULATIONS_REGARDING_TYPE_APPROVALS_-_5659-Gen_N22-30.pdf */}
-{/* sha256: 6557326729a2ffe832b51bbd1b5411ba3795b3fe7229bb000055f56dac1c36d2 */}
-{/* converted: 2026-05-31 10:56:16 */}
 
 N$13.60
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 
@@ -882,7 +878,6 @@ The  Communications  Regulatory  Authority  of  Namibia,  in  terms  of  section
 
 1 Non-profit	Association	incorporated	under	section	21	of	the	Companies	Act	24	of	2004. 2 Non-profit	Association	incorporated	under	section	21	of	the	Companies	Act	24	of	2004.
 
-{/* image */}
 
 | Own                                                |
 |----------------------------------------------------|

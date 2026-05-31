@@ -1,8 +1,4 @@
-{/* source: regulations/final/No.5357-6_December_2013.pdf */}
-{/* sha256: 32230886f9643e195b84614328da8aec49a7e3bbfb0c3945e4d692dece09d21d */}
-{/* converted: 2026-05-31 06:45:51 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE
 
@@ -133,7 +129,6 @@ CHAIRPERSONOFTHEBOARD COMMUNICATIONSREGULATORYAUTHORITY
 
 APPENDIXA ANNUALAUDITEDSEGMENTATIONREPORT
 
-{/* image */}
 
 | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   | Table l: Annual Audited Segmentation Report for all licensees   |
 |-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
@@ -324,7 +319,6 @@ Pleaseonlyfillout theinformationrelevant toyourorganisation.Ifnotrelevant,please
 | Fixed Internationaltelephonecircuits                                                |                 | 11191                    | International telephonecircuits                        |
 | NumberofPublicPay-phones                                                            |                 | I1112                    | Public payphones                                       |
 
-{/* image */}
 
 | Table8:BASE STATIONS DATA GATHERING TEMPLATE   | Table8:BASE STATIONS DATA GATHERING TEMPLATE   |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |   Table8:BASE STATIONS DATA GATHERING TEMPLATE |
 |------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -360,7 +354,6 @@ Pleaseonlyfillout theinformationrelevant toyourorganisation.Ifnotrelevant,please
 |                                                | Antenna height(AGL)*（m)                        |                                                |                                                |                                                |                                                |                                                |                                                |
 |                                                | AntennaSectorisation                           |                                                |                                                |                                                |                                                |                                                |                                                |
 
-{/* image */}
 
 | Table 10:Fibre Links   | Table 10:Fibre Links         | Table 10:Fibre Links       | Table 10:Fibre Links   | Table 10:Fibre Links   |
 |------------------------|------------------------------|----------------------------|------------------------|------------------------|

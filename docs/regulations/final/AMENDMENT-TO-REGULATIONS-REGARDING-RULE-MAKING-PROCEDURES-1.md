@@ -1,8 +1,4 @@
-{/* source: regulations/final/AMENDMENT-TO-REGULATIONS-REGARDING-RULE-MAKING-PROCEDURES-1.pdf */}
-{/* sha256: 897bb3be0ebf46188884d21803efac2d06dad607a199c61fdc5e7d542ac2d0a4 */}
-{/* converted: 2026-05-31 06:09:36 */}
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE OF THE
 

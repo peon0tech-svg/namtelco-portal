@@ -1,8 +1,4 @@
-{/* source: regulations/final/FREQUENCY-CHANNELING-PLAN-SPEC.pdf */}
-{/* sha256: ef16a7b3b0a2846c6af2c6c4b0f135ae7704f25398573936edab3152a0448710 */}
-{/* converted: 2026-05-31 06:12:17 */}
 
-{/* image */}
 
 ## GOVERNMENTGAZETTE
 
@@ -63,7 +59,6 @@ Figure 1
 
 Arrangement A7
 
-{/* image */}
 
 4. TheallocationforPPDRservicesinaccordancewithResolution646(WRC-19)andthe SADCFrameworkforHarmonisationofRadioFrequencySpectrumforPublicProtection and DisasterRelief(PPDR)-
 - a. 698-703MHzforUplink and753-758MHzfordownlink(2x5MHz);and

@@ -1,6 +1,3 @@
-{/* source: regulations/final/Frequency-Channelling-Plan-in-respect-of-Analogue-Frequency-Modulation-Radio-Broadcasting.pdf */}
-{/* sha256: 5def11f933324cf4786a2f5b3f774eea45cbb18160f835c8183978ed0a5cbda4 */}
-{/* converted: 2026-05-31 06:17:44 */}
 
 No. 321
 
@@ -25,7 +22,6 @@ The Communications Regulatory Authority of Namibia in terms of section 100(1) re
 | Aminuis     | 23°40'35.5'S | 19°26'01.6'E |              98.5 | Vertical       |               250 | Omaheke  |
 | Andara      | 18°430.01'S  | 21°25'11.6'E |              99.0 | Vertical       |                25 | Caprivi  |
 
-{/* image */}
 
 ## GOVERNMENT GAZETTE OF THE
 
